@@ -13,18 +13,18 @@ class App extends Component {
           <div className="row">
             <div className="col-sm-12 col-md-6">
               <strong>Mobile </strong>
-              <a target="_blank" href="tel:08884713695">08884713695</a>
+              <a target="_blank" rel="noopener noreferrer" href="tel:08884713695">08884713695</a>
               <br />
               <strong>Email </strong>
-              <a target="_blank" href="mailto:joydeep4jobs@gmail.com">joydeep4jobs@gmail.com</a>
+              <a target="_blank" rel="noopener noreferrer" href="mailto:joydeep4jobs@gmail.com">joydeep4jobs@gmail.com</a>
             </div>
 
             <div className="col-sm-12 col-md-6">
               <strong>LinkedIn </strong>
-              <a target="_blank" href="https://www.linkedin.com/in/joydeeproy87/">linkedin.com/in/joydeeproy87/</a>
+              <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/joydeeproy87/">linkedin.com/in/joydeeproy87/</a>
               <br />
               <strong>Github </strong>
-              <a target="_blank" href="https://github.com/joydeeproy87">github.com/joydeeproy87</a>
+              <a target="_blank" rel="noopener noreferrer" href="https://github.com/joydeeproy87">github.com/joydeeproy87</a>
             </div>
           </div>
 
